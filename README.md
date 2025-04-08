@@ -11,7 +11,7 @@ A simple and customizable loading screen built with React.js.
 
 ## 📸 Preview
 
-![Loading Screen Preview](./public/loading-preview.gif)
+![Loading Screen Preview](Demo.png)
 
 ## 🛠️ Tech Stack
 
