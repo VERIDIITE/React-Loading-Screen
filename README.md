@@ -4,7 +4,7 @@ A simple and customizable loading screen built with React.js.
 
 ## 🚀 Features
 
-- Animated loading spinner
+- Animated loading.
 - Full-screen overlay
 - Easy to integrate into any React project
 - Fully customizable
@@ -18,5 +18,3 @@ A simple and customizable loading screen built with React.js.
 - React.js
 - CSS / Tailwind (optional)
 - Vite or Create React App
-
-## 🔧 Setup Instructions
